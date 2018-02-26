@@ -17,10 +17,10 @@ At the same time, the ecosystems literature was crucial to broaden the spectrum 
 
 - The main contribution: "widen the lens": from supply chain to a broader ecosystem that includes complements in the value chain
 - In particular, how accounting for the complements alters the way we interpret industry evolution (aka adoption of new technology, substitution of the old technology by the new)
-- consequently, concentrates on the availability of complements as the main IV. In later work it becomes a DV (Kapoor, 2013 - Advances in Strategic Management), somewhat in Kapoor \& Lee (2013) (hospitals)
+- consequently, concentrates on the availability of complements as the main IV. In later work it becomes a DV (Kapoor, 2013 - Advances in Strategic Management), somewhat in Kapoor \& Lee (2013) (hospitals). The main mechanism is the impact of the complements on value-creating capabilities of the focal product: constraining (Adner and Kapoor, 2010), but also enabling (Adner and Kapoor, 2016). 
 - While the IV is generally the availability of complements, DVs vary from technology adoption (Adner and Kapoor, 2016) to firm's profitability (Adner and Kapoor, 2010; Kapoor and Lee, 2013) to firm's strategic choice (Kapoor and Furr, 2015). 
-- don't take into account competition by complements and for complements
-- complements supply exogenous: firms cannot directly affect it (partially due to the constraints imposed by the empirical settings where capabilities for the focal product and complementary product are vastly different); complements are not strategizing (in that they do not react to the product in the focal component).
+- However, don't take into account competition by complements and for complements
+- complements supply is exogenous: firms cannot directly affect it (partially due to the constraints imposed by the empirical settings where capabilities for the focal product and complementary product are vastly different); complements are not strategizing (in that they do not react to the product in the focal component).
 
 *Innovation in complex systems - main points*
 
@@ -28,8 +28,9 @@ At the same time, the ecosystems literature was crucial to broaden the spectrum 
 
 *IA - main points*
 
-- The main contribution: opened the discussion on how to appropriate value in a complex system/modular system/ ecosystem; that firms can adopt strategies to achieve a privileged position within the system that allows it to enjoy higher value capture. 
-- 
+- The main contribution: given the joint value creation by a bundle of complements, opened the discussion on how to appropriate value in a complex system/modular system/ ecosystem; that firms can adopt strategies to achieve a privileged position within the system that allows it to enjoy higher value capture. 
+- key question: who benefits from the innovation
+- Bottleneck is no longer only a constraint on value creation - it is also a point of value capture. From Ethiraj (bottleneck is a constraint, which ahs to be resolved) to strategic bottleneck: a part of value chain in most scarce supply which enables the entity controlling it to appropriate a higher share of value
 
 
 *Value-based strategy*
