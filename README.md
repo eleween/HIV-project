@@ -13,6 +13,25 @@ At the same time, the ecosystems literature was crucial to broaden the spectrum 
 - Innovation in complex systems (Ethiraj)
 - Industry architecture (Jacobides)
 
+*Ecosystems - main points*
+
+- The main contribution: "widen the lens": from supply chain to a broader ecosystem that includes complements in the value chain
+- In particular, how accounting for the complements alters the way we interpret industry evolution (aka adoption of new technology, substitution of the old technology by the new)
+- consequently, concentrates on the availability of complements as the main IV. In later work it becomes a DV (Kapoor, 2013 - Advances in Strategic Management), somewhat in Kapoor \& Lee (2013) (hospitals)
+- While the IV is generally the availability of complements, DVs vary from technology adoption (Adner and Kapoor, 2016) to firm's profitability (Adner and Kapoor, 2010; Kapoor and Lee, 2013) to firm's strategic choice (Kapoor and Furr, 2015). 
+- don't take into account competition by complements and for complements
+- complements supply exogenous: firms cannot directly affect it (partially due to the constraints imposed by the empirical settings where capabilities for the focal product and complementary product are vastly different); complements are not strategizing (in that they do not react to the product in the focal component).
+
+*Innovation in complex systems - main points*
+
+- The main contribution is 
+
+*IA - main points*
+
+- The main contribution: opened the discussion on how to appropriate value in a complex system/modular system/ ecosystem; that firms can adopt strategies to achieve a privileged position within the system that allows it to enjoy higher value capture. 
+- 
+
+
 *Value-based strategy*
 
 Value-based strategy (Brandenburger and Stuart, 1996) that deals with value creation and value capture in coalitions of players is particularly well-suited to analyze the contexts with complementary products. In fact, it was invoked by the early literature in both ecosystems (Adner and Kapoor, 2010) and industry architecture streams (Jacobides, Knudsen, and Augier, 2006), yet the later research in both streams does not mention or build on value-based tradition.  
