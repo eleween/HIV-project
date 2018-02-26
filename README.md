@@ -24,13 +24,18 @@ At the same time, the ecosystems literature was crucial to broaden the spectrum 
 
 *Innovation in complex systems - main points*
 
-- The main contribution is 
+- The main contribution is that while modularity in design confers advatange in terms of parallel innovation (Baldwin and Clark, 2000), there is a dark side: due to interdependencies between components innovation in one component may constrain the performance of another component, sometimes to the extent that it prevents the whole system from creating value (Ethiraj and Levinthal, 2004), which may incentivize firms other than those in the constraint component to invest in resolving this constraint (Ethiraj, 2007). The important contribution is when firms have more incentives to invest into the constraint component 
+- heterogeneity in terms of sunk R&D investment results in heterogeneity in incentives to invest in constraint component (Ethiraj, 2007). Furthermore, in Ethiraj and Posen (2013) the value capture aspect is considered as the asymmetries in dependence of the focal component and on the focal component and subsequent ability to benefit from the innovation affect the innovation effort of the firms in the focal component. The latter paper, in fact, incorporates logic of the industry architecture stream. 
+- However, the focus is on value creation, not on value capture. 
+- the impact of dependence is assumed to be the same for all firms within the component 
+
 
 *IA - main points*
 
 - The main contribution: given the joint value creation by a bundle of complements, opened the discussion on how to appropriate value in a complex system/modular system/ ecosystem; that firms can adopt strategies to achieve a privileged position within the system that allows it to enjoy higher value capture. 
 - key question: who benefits from the innovation
 - Bottleneck is no longer only a constraint on value creation - it is also a point of value capture. From Ethiraj (bottleneck is a constraint, which ahs to be resolved) to strategic bottleneck: a part of value chain in most scarce supply which enables the entity controlling it to appropriate a higher share of value
+- However, the level fo analysis is component; don't consider value capture by an individual firm. As such, the heterogeneity is only between components, but not within components.  
 
 
 *Value-based strategy*
