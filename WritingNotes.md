@@ -2,6 +2,18 @@
 ## Thoughts on contribution and positioning
 - When discussing firm's value capture we have two approaches. One (Adner and Kapoor; Ethiraj) focuses on the firm's value capture as a function of the value creation by the ecosystem; competition is not taken into account. The other is by Jacobides, which takes into account competition.
 
+## Introduction
+What are the main points?
+
+Contexts with complementary products raise interesting questions about how value is created and how it is split, because of interdependencies between component performance, and tensions between value creation and value capture incentives. 
+These questions have been tackled by three literature streams, two focusing predominantly on value creation, and the third on on value capture aspect. 
+Strategy literature with ecosystem perspective established that the availability of complements is crucial to enable firms to create value with their products, especially in the context of new technology adoption (Adner and Kapoor, 2010). Technology perspective grounded in complex systems (Simon, 1962) and modularity (Baldwin and Clark, 2000) highlights challenges for value creation that emerge in such contexts due to interdependencies in performance: not only complements have to be available, but their performance also has to match the requirements of the focal product (Ethiraj, 2007).   
+Finally, industry architecture literature, also building on modularity in design (Baldwin and Clark, 2000), shifts the discussion to how the value created is distributed across the ecosystem components, in particular emphasizing the importance of becoming a so-called bottleneck component: the ``the part of the firms’ or the industry’s system that is in most scarce supply"  
+
+- bring together value creation and value capture considerations
+- The gap is in heterogeneity among players within
+
+
 ### Comparing literature streams
 Modular architecture and industry architecture get closer to the mechanisms of value creation and value capture in contexts with complementary products, in large part thanks to fine-grained context that they generally use, with interdependencies defined by technology. This allows to test the mechanisms. The second important contribution, especially of the industry architecture literature, is the notion of bottleneck which incorporates the ideas of competition by the actor and for the actor from value-based strategy. 
 
