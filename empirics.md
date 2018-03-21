@@ -43,3 +43,16 @@ The independent variables:
 To deal with endogeneity issues 1) and 2) it may be necessary to collect the data on phase 2 trials... 
 
 ## Potential design 2:
+
+- Still need some kind of first stage...
+- All trials done by firms/(?nonprofits?) except for Gilead. DV is a binary variable "Tenofovir Used?". It is set to 1 if tenofovir was used in the trial, and 0 otherwise. The same can be done for abacavir and zidovudine regressions.
+- Independent variables are characteristics of the trial. 
+    - Whether the trial is on add-on drug
+    - Trial size (enrollment)
+    - Whether tenofovir was a unique complement (this is applicable, though, for trials on add-on only)
+    - Type of add-on drug (new vs. old; high-value vs. low-value; actually, for add-ons before approval it is more like expected high-value)
+ Then the interest lies in the interaction of UniqueComplement#Post2008 being positive. 
+ 
+ ### Issues:
+ - the sample size is equal to the number of trials. 
+ - 
