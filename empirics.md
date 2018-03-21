@@ -51,8 +51,16 @@ To deal with endogeneity issues 1) and 2) it may be necessary to collect the dat
     - Trial size (enrollment)
     - Whether tenofovir was a unique complement (this is applicable, though, for trials on add-on only)
     - Type of add-on drug (new vs. old; high-value vs. low-value; actually, for add-ons before approval it is more like expected high-value)
+    - Sponsor type - industry or else
+    - Patient type (naive or pretreated) - the interaction with UniqueComplement would be important (because in pre-treated patient trials normally all kinds of base drugs are accepted)
  Then the interest lies in the interaction of UniqueComplement#Post2008 being positive. 
  
  ### Issues:
  - the sample size is equal to the number of trials. 
- - 
+    - However, if we include trials not sponsored by the industry, we will probably end up with 300 trials or so
+ - We miss the "Not doing a trial" alternative, because we start from the dataset of trials 
+
+A similar design could be done using multinomial logit, and creating categories, like "tenofovir", "abacavir", "multiple", "No Base"; but, I am afraid that given the number of trials (300), and that there will probably be 4-5 categories it may not be enough to get the statistical power.
+Also, could be more complicated than a straightforward logit. TO BE SEEN.
+
+The main issue here is that the "not doing a trial" alternative is relegated to the first stage. 
