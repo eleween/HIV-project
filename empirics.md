@@ -18,11 +18,17 @@ Note: for these hypotheses it is less clear: an alternative would be to
 
 4) If I am very picky, there are also vaccines trials which may be viewed as a substitute for drug trials. 
 
-## Potential design:
+## Potential design 1:
 
 A panel of combinations across years that are at risk of being in a trial. E.g., "Tenofovir+Atazanavir", "Tenofovir+Rilpivirine", etc., over the years. In terms of years: we have a lot of pre-1999 trials, so we can probably start with 1999 onward to 2017. There is some left censoring as the trials in older years do not appear systematically (e.g., some combinations may have never been tried in our sample because they have all been tried before 1999). There are 34 industry trials w/o startyear (presumably before 1999), 2 trials before 1999 (1996, and 1997), and 8 trials in 1999. The remaining 190 are after 1999. 
 
 The DV can either be binary (whether a given combination was a part of at least one trial or not in a given year) - then this is a logit. Or it can be the number of trials in a given year - then it is Poisson or negative binomial regression. 
+
+The independent variables: 
+- Tenofovir, abacavir, zidovudine indicators (somewhat similar to the analysis of consumption)
+- Indicator for the same firm owning the base and the add-on (TBD)
+- Trial type - base or add-on. 
+- UniqueComplement indicator equal to 1 if only one complement is used in a trial. However, this can be problematic as it makes sense for trials of add-on drugs. 
 
 ### What are the issues?
 - the set of combinations considered! 
@@ -32,7 +38,8 @@ The DV can either be binary (whether a given combination was a part of at least 
 - Some combinations can be like "Lopinavir+Didanosine+Stavudine". Both Didanosine and Stavudine are base drugs; yet I normally consider them as Base1 (as opposed to emtricitabine and lamivudine that are Base2). Should in this case we consider both combinations, Lopinavir+Didanosine and Lopinavir+Stavudine as being tested? Medically, I am not sure this is right. 
 - We lose the by-trial information, in particular who was the sponsor, which patients (naive or pre-treated); and whether the focus of the trial was the base of the add-on. 
 
+### First stage needed? 
 
-The independent variables: 
-- Tenofovir, abacavir, zidovudine indicators (somewhat similar to the analysis of consumption)
-- Indicator for the same firm owning the base and the add-on (TBD)
+To deal with endogeneity issues 1) and 2) it may be necessary to collect the data on phase 2 trials... 
+
+## Potential design 2:
